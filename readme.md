@@ -76,7 +76,7 @@
 ## Depois de rodar 'python manage.py migrate' a tabela foi criada no banco
     python manage.py migrate
         
-## Agora posso cadastrar pessoas no banco de dados pela interface do django
+### Agora posso cadastrar pessoas no banco de dados pela interface do django
 
 ## Para a visualização do nome ficar correta e não mostrar 'pessoa_object' devo adicionar em models.py no model pessoa
     def __str__(self):
