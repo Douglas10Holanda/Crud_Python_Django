@@ -1,3 +1,5 @@
+# Tutorial Passo a Passo - CRUD Python & Django
+
 # Criação do Projeto #
 
 ## Criar um ambiente virtual para cada cliente
@@ -97,7 +99,7 @@
         pessoas = Pessoa.objects.all()
         return render(request, "index.html", {"pessoas": pessoas})
 
-##  Agora dentro do meu template, tenho acesso as pessoas do banco
+###  Agora dentro do meu template, tenho acesso as pessoas do banco
 
 ##  Para imprimir as pessoas na tela adiciono o código no arquivo index.html
     <ul>
