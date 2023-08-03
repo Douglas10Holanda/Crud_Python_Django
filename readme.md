@@ -1,4 +1,4 @@
-### Criação do Projeto ###
+# Criação do Projeto #
 
 # Cria um ambiente virtual para cada cliente
     python -m venv cliente1
@@ -26,9 +26,9 @@
     python manage.py createsuperuser
 
 
-### CRUD ###
+# CRUD #
 
-# Criar partes do sistemas(apps)
+## Criar partes do sistemas(apps) ##
     python manage.py startapp core
 
 # Registrar app no settings em "installed apps"
