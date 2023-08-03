@@ -1,6 +1,6 @@
 # Tutorial Passo a Passo - CRUD Python & Django
 
-# Criação do Projeto #
+## Criação do Projeto
 
 ## Criar um ambiente virtual para cada cliente
     python -m venv cliente1
