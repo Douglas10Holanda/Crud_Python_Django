@@ -1,6 +1,6 @@
 # Criação do Projeto #
 
-## Cria um ambiente virtual para cada cliente
+## Criar um ambiente virtual para cada cliente
     python -m venv cliente1
 
 ## Ativar venv
